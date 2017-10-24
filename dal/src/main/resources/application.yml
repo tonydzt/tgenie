@@ -1,0 +1,13 @@
+# redis等设定
+spring:
+  redis:
+    host: localhost
+    password:
+    port: 6379
+    timeout: 1000
+    pool:
+      max-active: 20
+      max-idle: 5
+      max-wait: 100
+      min-idle: 2
+
