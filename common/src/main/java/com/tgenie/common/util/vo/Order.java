@@ -1,4 +1,4 @@
-package util.vo;
+package com.tgenie.common.util.vo;
 
 /**
  *

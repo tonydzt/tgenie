@@ -1,11 +1,11 @@
-package util.comparator;
+package com.tgenie.common.util.comparator;
 
 import com.google.common.collect.Lists;
-import util.vo.Order;
-import util.vo.Quantifiable;
-import util.vo.Size;
 
 import java.util.*;
+
+import com.tgenie.common.util.vo.*;
+
 
 /**
  * @author dzt
