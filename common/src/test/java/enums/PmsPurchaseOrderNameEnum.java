@@ -1,6 +1,5 @@
 package enums;
 
-import com.tgenie.common.util.VoUtil;
 import com.tgenie.common.util.enums.NameTranslator;
 import com.tgenie.common.util.vo.UpdateUnit;
 import vo.PmsPurchaseOrder;
